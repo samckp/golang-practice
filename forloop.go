@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello")
+	fmt.Println("For Loop scenarios ")
 
 	// for loop
 	for i := 0; i <= 10; i++ {
